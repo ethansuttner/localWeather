@@ -1,0 +1,26 @@
+.temp, .center {
+  text-align: center;
+}
+
+.center {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%)
+}
+
+body {
+  /*background-image: url("https://pixabay.com/static/uploads/photo/2012/02/16/12/08/clouds-13388_960_720.jpg");*/
+  background-position: center;
+  background-size: cover;
+  background-image: url("https://pixabay.com/static/uploads/photo/2015/12/04/17/09/sunset-1076836_960_720.jpg");
+  /*background-image: url("https://pixabay.com/static/uploads/photo/2015/12/06/09/15/ice-1079233_960_720.jpg")*/
+}
+
+Clear
+Mist
+Rain
+Storm
+Snow
+Extreme

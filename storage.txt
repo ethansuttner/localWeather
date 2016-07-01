@@ -1,0 +1,5 @@
+// if (navigator.geolocation) { console.log("Here");
+// navigator.geolocation.getCurrentPosition(function(position) {
+// console.log("Lat is: " + position.coords.latitude);
+// //$(".h4").html("latitude: " + position.coords.latitude + "<br>longitude: " +
+// position.coords.longitude);
