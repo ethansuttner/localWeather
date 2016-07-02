@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for http://ethansuttner.com/</title>
+  <link>http://ethansuttner.com/</link>
+
+<item>
+     <link>http://ethansuttner.com/</link>
+     <title>Ethan Suttner</title>
+     <description>Ethan Suttner</description>
+     <ror:updatePeriod>monthly</ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://ethansuttner.com/project.html</link>
+     <title>Ethan Suttner</title>
+     <description>Ethan Suttner</description>
+     <ror:updatePeriod>monthly</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://ethansuttner.com/EthanSuttnerResume.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod>monthly</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://ethansuttner.com/ConvertingfromAssemblyLinetoCellularManufacturingwiththePJ1500.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod>monthly</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://ethansuttner.com/EthanSuttnerMEngReport.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod>monthly</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://ethansuttner.com/SynchrotronPaper.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod>monthly</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://ethansuttner.com/SynchrotronPosterTemnykh.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod>monthly</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://ethansuttner.com/MCReviewFinalVersion.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod>monthly</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://ethansuttner.com/LAREview.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod>monthly</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  
